@@ -2,7 +2,7 @@
 
 Interpretability in State Space Models for Histopathological Imaging
 
-<h3>References</h3>
+<h3>References:</h3>
 
 <h5>1. Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model
 Link - https://arxiv.org/pdf/2401.09417</h5> 
