@@ -1,6 +1,6 @@
-# IJCNN
+# International Joint Conference on Neural Networks (IJCNN)
 
-State Space Model for Histopathological Imaging
+Interpretable State Space Model for Histopathological Imaging
 
 <h5>1. Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model
 Link - https://arxiv.org/pdf/2401.09417
