@@ -1,4 +1,4 @@
-#IJCNN
+<h2>IJCNN</h2>
 
 Interpretability in State Space Models for Histopathological Imaging
 
