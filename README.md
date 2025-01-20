@@ -1,4 +1,4 @@
-# International Joint Conference on Neural Networks (IJCNN)
+#IJCNN
 
 Interpretability in State Space Models for Histopathological Imaging
 
